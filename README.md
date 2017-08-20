@@ -3,4 +3,4 @@
 ---------------
 Images Being Used For <a href="https://github.com/Wonder-Toast/pokebot">PokeBot</a>
 
-*which means that you may use these shiny images since they are public <strong>However</strong> You must use indicate you are using these images from our git*
+*which means that you may use these images since they are public <strong>However</strong> You must use indicate you are using these images from this git*
